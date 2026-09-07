@@ -37,7 +37,7 @@ The lab employs a **dual-adapter network design** to maintain complete isolation
                ┌────────────────────────────────────────────────────────┐
                │              PHYSICAL HOST (A16 Laptop)                │
                │                   Windows 11 OS                        │
-               │               Host IP: 192.168.56.1                    │
+               │               Host IP: 192.168.XX.XXX                    │
                └──────────────────────────┬─────────────────────────────┘
                                           │
                                    (VirtualBox)
@@ -48,7 +48,7 @@ The lab employs a **dual-adapter network design** to maintain complete isolation
    │         VIRTUAL VM 1        │                 │         VIRTUAL VM 2        │
    │      Ubuntu Server OS       │                 │         Windows 11 VM       │
    │       Wazuh Manager         │                 │    Wazuh Agent & Sysmon     │
-   │    IP: 192.168.56.101       │                 │       IP: 192.168.56.X      │
+   │    IP: XXX.XXX.XXX.XXX       │                 │       IP: XXX.XXX.XXX.XXX       │
    └──────────────┬──────────────┘                 └──────────────┬──────────────┘
                   │                                               │
       [Adapter 1: Host-Only]                          [Adapter 1: NAT]
@@ -57,7 +57,7 @@ The lab employs a **dual-adapter network design** to maintain complete isolation
 VirtualBox Adapter Mapping
 
 1. **Ubuntu Manager Interface Mapping:**
-    - **Adapter 1 (Host-Only):** Bound to `VirtualBox Host-Only Ethernet Adapter`. This adapter provides static IP communication at `192.168.56.101`. Promiscuous Mode: Deny. Cable Connected: True.
+    - **Adapter 1 (Host-Only):** Bound to `VirtualBox Host-Only Ethernet Adapter`. This adapter provides static IP communication at XXX.XXX.XXX.XXX . Promiscuous Mode: Deny. Cable Connected: True.
     - **Adapter 2 (NAT):** Enabled to allow the Ubuntu operating system to access package mirrors (e.g., `apt-get install` or fetching Wazuh updates).
 2. **Windows 11 Endpoint Interface Mapping:**
     - **Adapter 1 (NAT):** Configured as the primary interface to download threat emulation packages, Sysmon binaries, and Wazuh installer files.
@@ -75,7 +75,7 @@ During initial testing, the Wazuh Manager lost all connectivity with the Windows
 ID: 001, Name: A16, IP: any, Disconnected
 ```
 
-The agent host could not ping the Wazuh manager at `192.168.56.101`, resulting in connection timeouts.
+The agent host could not ping the Wazuh manager at XXX.XXX.XXX.XXX , resulting in connection timeouts.
 
 Diagnostic Steps
 
@@ -89,7 +89,7 @@ Resolution
 2. Executed an ICMP echo verification from the monitored Windows VM:
 
 ```
-ping 192.168.56.101
+ping XXX.XXX.XXX.XXX 
 ```
 
 1. **Result:** Restored 100% network reachability with `0% packet loss` and an average round-trip time of `0ms`, allowing the Wazuh Agent to successfully re-register and change its status to `Active`.
