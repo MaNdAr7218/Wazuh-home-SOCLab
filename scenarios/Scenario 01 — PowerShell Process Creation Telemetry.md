@@ -1,4 +1,4 @@
-````
+
 
 ## 1. Objective
 
@@ -34,7 +34,7 @@ Monitoring process creation provides analysts with important forensic informatio
 
 ---
 
-## 4. Detection Logic
+4. Detection Logic
 
 This scenario relies on **Sysmon Event ID 1**, which records process creation activity.
 
@@ -192,24 +192,18 @@ The following evidence was collected during this scenario:
 
 ## 11. Screenshots
 
-The following screenshots should be included for this scenario:
-
 ### Screenshot 1 — PowerShell Simulation
 
-![[s1_03.png]]
+![PowerShell Simulation](s1_03.png)
+
 ### Screenshot 2 — Wazuh Alert
 
-![[s1_01.png]]
+![Wazuh Alert](s1_01.png)
+
 ### Screenshot 3 — Alert Details
 
-![[s1_02.png]]
-
-
-```
-
----
-
-## 12. Conclusion
+![Alert Details](s1_02.png)
+12. **Conclusion**
 
 This scenario successfully demonstrated end-to-end PowerShell process monitoring in the SOC lab.
 

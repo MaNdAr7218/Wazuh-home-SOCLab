@@ -188,8 +188,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7c5a56643949f55",
+  "active": "37e05a40a888b5ca",
   "lastOpenFiles": [
+    "2026-09-08.md",
+    "scenarios/Scenario 01 — PowerShell Process Creation Telemetry.md",
+    "Untitled.canvas",
     "scenarios/s1_03.png",
     "scenarios/s1_02.png",
     "scenarios/s1_01.png",
@@ -202,8 +205,6 @@
     "proofs(SS)/Screenshot 2026-09-08 113726.png",
     "proofs(SS)",
     "New folder",
-    "scenarios/Pasted image 20260908114451.png",
-    "scenarios/Scenario 01 — PowerShell Process Creation Telemetry.md",
     "docs/01-architecture-setup.md",
     "docs/02-environment-setup.md",
     "Scenario 01 — PowerShell Process Creation Telemetry.md",
