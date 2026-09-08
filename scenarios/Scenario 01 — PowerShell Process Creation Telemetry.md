@@ -203,7 +203,8 @@ The following evidence was collected during this scenario:
 ### Screenshot 3 — Alert Details
 
 ![Alert Details](s1_02.png)
-12. **Conclusion**
+
+## 12. **Conclusion**
 
 This scenario successfully demonstrated end-to-end PowerShell process monitoring in the SOC lab.
 
