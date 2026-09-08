@@ -144,18 +144,21 @@ The complete detection flow for this scenario was:
 8. The alert was available for investigation in the Wazuh monitoring environment.
 
 ---
-
 ## 11. Screenshots
 
-The following screenshots should be included for this scenario.
 
+The following screenshots should be included for this scenario.
 ### Screenshot 1 — PowerShell Encoded Command Simulation
-![[s2_01.png]]
+
+![PowerShell Encoded Command Simulation](s2_01.png)
+
 ### Screenshot 2 — Wazuh Alert
-![[s2_02.png]]
+
+![Wazuh Alert](s2_02.png)
+
 ### Screenshot 3 — Alert Details
-![[s2_03.png]]
----
+
+![Alert Details](s2_03.png)
 
 ## 12. Conclusion
 
