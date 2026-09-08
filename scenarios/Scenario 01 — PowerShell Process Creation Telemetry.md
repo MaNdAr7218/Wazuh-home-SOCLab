@@ -196,37 +196,15 @@ The following screenshots should be included for this scenario:
 
 ### Screenshot 1 — PowerShell Simulation
 
-Show the PowerShell command:
-
-```
-powershell.exe -c "Write-Host 'WAZUH SYSMON TEST'"
-```
-
-and its output.
-
+![[s1_03.png]]
 ### Screenshot 2 — Wazuh Alert
 
-Show the generated alert with:
-
-- Sysmon Event ID 1
-- Rule ID 92027
-- PowerShell activity
-
+![[s1_01.png]]
 ### Screenshot 3 — Alert Details
 
-Show the important forensic fields:
+![[s1_02.png]]
 
-- `commandLine`
-- `image`
-- `parentImage`
-- `user`
 
-### Screenshot 4 — alerts.json Evidence
-
-Show the terminal output confirming that the event was recorded in:
-
-```
-/var/ossec/logs/alerts/alerts.json
 ```
 
 ---
