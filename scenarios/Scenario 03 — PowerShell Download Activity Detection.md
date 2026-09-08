@@ -165,14 +165,16 @@ The complete detection flow for this scenario was:
 ## 11. Screenshots
 
 ### Screenshot 1 — PowerShell Download Simulation and Downloaded File Verification
-![[s3_01.png]]
 
+![PowerShell Download Simulation and Downloaded File Verification](s3_01.png)
 
 ### Screenshot 2 — Wazuh Alert
-![[s3_02.png]]
+
+![Wazuh Alert](s3_02.png)
+
 ### Screenshot 3 — Alert Details
-![[s3_03.png]]
----
+
+![Alert Details](s3_03.png)
 
 ## 12. Conclusion
 
