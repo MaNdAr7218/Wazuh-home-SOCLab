@@ -150,15 +150,15 @@ The following screenshots should be included for this scenario.
 
 ### Screenshot 1 — PowerShell Download Activity Simulation
 
-![PowerShell Download Activity Simulation](s5_01.png)
+![PowerShell Download Activity Simulation](proofs/s5_01.png)
 
 ### Screenshot 2 — Wazuh Alert
 
-![Wazuh Alert](s5_02.png)
+![Wazuh Alert](proofs/s5_02.png)
 
 ### Screenshot 3 — Alert Details
 
-![Alert Detaild](s5_03.png)
+![Alert Details](proofs/s5_03.png)
 
 ---
 

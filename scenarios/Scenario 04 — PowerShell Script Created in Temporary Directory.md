@@ -186,11 +186,12 @@ PowerShell can be used for legitimate administration but is also frequently abus
 Add the following screenshots:
 
 1. **PowerShell command creating the test `.ps1` file** and **Sysmon Event Viewer showing Event ID 11**
-   ![ **PowerShell command creating the test `.ps1` file**](s4_01.png)
+
+   ![PowerShell command creating the test `.ps1` file and **Sysmon Event Viewer showing Event ID 11](s4_01.png)
 2.  **Wazuh `alerts.json` showing the detection**
-   ![**Sysmon Event Viewer showing Event ID 11**](s4_02.png)
+   ![ Wazuh `alerts.json` showing the detection](s4_02.png)
 3. **Wazuh Dashboard showing the alert and event details**
-   ![**Wazuh Dashboard showing the alert and event details**](s4_03.png)
+   ![Wazuh Dashboard showing the alert and event details](s4_03.png)
 
 ---
 

@@ -194,15 +194,15 @@ The following evidence was collected during this scenario:
 
 ### Screenshot 1 — PowerShell Simulation
 
-![PowerShell Simulation](s1_03.png)
+![PowerShell Simulation](proofs/s1_03.png)
 
 ### Screenshot 2 — Wazuh Alert
 
-![Wazuh Alert](s1_01.png)
+![Wazuh Alert](proofs/s1_01.png)
 
 ### Screenshot 3 — Alert Details
 
-![Alert Details](s1_02.png)
+![Alert Details](proofs/s1_02.png)
 
 ## 12. **Conclusion**
 

@@ -299,19 +299,19 @@ The following screenshots should be included for this scenario.
 
 ### Screenshot 1 — PowerShell Registry Run Key Simulation
 
-![PowerShell Registry Run Key Simulation](s6_01.png)
+![PowerShell Registry Run Key Simulation](proofs/s6_01.png)
 
 ---
 
 ### Screenshot 2 — Sysmon Event ID 13
 
-![Sysmon Event ID 13](s6_02.png)
+![Sysmon Event ID 13](proofs/s6_02.png)
 
 ---
 
 ### Screenshot 3 — Wazuh Archived Event
 
-![Wazuh Archived Event](s6_03.png)
+![Wazuh Archived Event](proofs/s6_03.png)
 
 ---
 

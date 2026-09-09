@@ -150,11 +150,11 @@ The complete detection flow for this scenario was:
 The following screenshots should be included for this scenario.
 ### Screenshot 1 — PowerShell Encoded Command Simulation
 
-![PowerShell Encoded Command Simulation](s2_01.png)
+![PowerShell Encoded Command Simulation](proofs/s2_01.png)
 
 ### Screenshot 2 — Wazuh Alert
 
-![Wazuh Alert](s2_02.png)
+![Wazuh Alert](proofs/s2_02.png)
 
 ### Screenshot 3 — Alert Details
 
