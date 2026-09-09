@@ -187,7 +187,7 @@ Add the following screenshots:
 
 1. **PowerShell command creating the test `.ps1` file** and **Sysmon Event Viewer showing Event ID 11**
 
-   ![Description](proofs/s4_01.png)
+   ![PowerShell command creating the test .ps1 file and Sysmon event viwer showing event ID 11](s4_01.png)
 
 2.  Wazuh `alerts.json` showing the detection
    ![Description](proofs/s4_02.png)
