@@ -317,7 +317,7 @@ The following screenshots should be included for this scenario.
 
 ### Screenshot 4 — Wazuh Logtest Rule Validation
 
-![Wazuh Logtest Rule Validation](s6_04.png)
+![Wazuh Logtest Rule Validation](proofs/s6_04.png)
 
 ---
 
