@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "scenarios/Scenario 02 — PowerShell Encoded Command Detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Scenario 02 — PowerShell Encoded Command Detection"
             }
           }
         ],
@@ -247,18 +247,18 @@
   },
   "active": "1b2a5595ed0e374e",
   "lastOpenFiles": [
+    "scenarios/Scenario 03 — PowerShell Download Activity Detection.md",
+    "scenarios/Scenario 05 — Detect PowerShell Download Activity.md",
+    "scenarios/Scenario 06 — Detecting Windows Registry Run Key Modification.md",
+    "README.md",
     "scenarios/Scenario 07 — Detecting Windows Scheduled Task Creation.md",
     "scenarios/Scenario 08 — Detecting Windows Service Creation.md",
     "scenarios/proofs/s8_02.png",
     "scenarios/proofs/s8_01.png",
     "scenarios/proofs/s8_03.png",
-    "README.md",
     "scenarios/Scenario 04 — PowerShell Script Created in Temporary Directory.md",
-    "scenarios/Scenario 03 — PowerShell Download Activity Detection.md",
     "scenarios/Scenario 02 — PowerShell Encoded Command Detection.md",
     "scenarios/Scenario 01 — PowerShell Process Creation Telemetry.md",
-    "scenarios/Scenario 05 — Detect PowerShell Download Activity.md",
-    "scenarios/Scenario 06 — Detecting Windows Registry Run Key Modification.md",
     "proofs/sr.md",
     "proofs",
     "scenarios/proofs/s6_03.png",

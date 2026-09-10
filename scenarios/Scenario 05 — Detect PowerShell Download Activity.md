@@ -154,11 +154,11 @@ The following screenshots should be included for this scenario.
 
 ### Screenshot 2 — Wazuh Alert
 
-![Wazuh Alert](proofs/s5_02.png)
+![Wazuh Alert](s5_03.png)
 
 ### Screenshot 3 — Alert Details
 
-![Alert Details](proofs/s5_03.png)
+![Alert Details](s5_02.png)
 
 ---
 

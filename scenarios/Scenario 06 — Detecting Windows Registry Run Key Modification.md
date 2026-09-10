@@ -320,17 +320,6 @@ The following screenshots should be included for this scenario.
 ![Wazuh Logtest Rule Validation](proofs/s6_04.png)
 
 ---
-
-### Screenshot 5 — Custom Rule Configuration
-
-Show Rule `100102` inside:
-
-```
-/var/ossec/etc/rules/local_rules.xml
-```
-
----
-
 ## 14. Conclusion
 
 This scenario successfully demonstrated the collection and detection validation of a Windows Registry Run key modification.
