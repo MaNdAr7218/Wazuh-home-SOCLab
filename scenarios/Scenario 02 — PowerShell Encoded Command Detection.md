@@ -158,7 +158,7 @@ The following screenshots should be included for this scenario.
 
 ### Screenshot 3 — Alert Details
 
-![Alert Details](s2_03.png)
+![Alert Details](proofs/s2_03.png)
 
 ## 12. Conclusion
 
