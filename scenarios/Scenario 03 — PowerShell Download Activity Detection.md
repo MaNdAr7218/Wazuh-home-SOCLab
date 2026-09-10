@@ -170,11 +170,11 @@ The complete detection flow for this scenario was:
 
 ### Screenshot 2 — Wazuh Alert
 
-![Wazuh Alert](s3_03.png)
+![Wazuh Alert](proofs/s3_03.png)
 
 ### Screenshot 3 — Alert Details
 
-![Alert Details](s3_02.png)
+![Alert Details](proofs/s3_02.png)
 
 ## 12. Conclusion
 

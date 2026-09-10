@@ -185,7 +185,7 @@ PowerShell can be used for legitimate administration but is also frequently abus
 
 1. **PowerShell command creating the test `.ps1` file** and **Sysmon Event Viewer showing Event ID 11**
 
-![desp](s4_01.png)
+![PowerShell Command creating the test .ps1 file and Sysmon Event Viewer showing Event ID 11](proofs/s4_01.png)
 
 2.  Wazuh `alerts.json` showing the detection
    ![Description](proofs/s4_02.png)
